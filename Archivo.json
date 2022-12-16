@@ -1,0 +1,92 @@
+[
+    {
+      "LEGAJO": 2001,
+      "NOMBRE": "Daiana",
+      "APELLIDO": "Reyes",
+      "ID_MATERIA": 1,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "10-05-2022",
+      "PROMEDIO": 8
+    },
+    {
+      "LEGAJO": 2002,
+      "NOMBRE": "Lucía",
+      "APELLIDO": "Iérmoli",
+      "ID_MATERIA": 1,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "11-05-2022",
+      "PROMEDIO": 9
+    },
+    {
+      "LEGAJO": 2003,
+      "NOMBRE": "Merli",
+      "APELLIDO": "Barahona",
+      "ID_MATERIA": 2,
+      "ESTA_ACTIVO": false,
+      "FECHA_INSCRIPCION": "02-01-2020",
+      "PROMEDIO": null
+    },
+    {
+      "LEGAJO": 2004,
+      "NOMBRE": "Mailén",
+      "APELLIDO": "González",
+      "ID_MATERIA": 3,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "13-02-2022",
+      "PROMEDIO": 8.5
+    },
+    {
+      "LEGAJO": 2005,
+      "NOMBRE": "Agostina",
+      "APELLIDO": "Cocco",
+      "ID_MATERIA": 4,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "10-04-2022",
+      "PROMEDIO": 3
+    },
+    {
+      "LEGAJO": 2006,
+      "NOMBRE": "Juliana",
+      "APELLIDO": "Anselmino",
+      "ID_MATERIA": 2,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "20-08-2022",
+      "PROMEDIO": null
+    },
+    {
+      "LEGAJO": 2007,
+      "NOMBRE": "Patricia",
+      "APELLIDO": "Sandoval",
+      "ID_MATERIA": 3,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "01-01-2022",
+      "PROMEDIO": 7.5
+    },
+    {
+      "LEGAJO": 2008,
+      "NOMBRE": "Juan",
+      "APELLIDO": "Perez",
+      "ID_MATERIA": 4,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "15-06-2022",
+      "PROMEDIO": 4.5
+    },
+    {
+      "LEGAJO": 2009,
+      "NOMBRE": "Junior",
+      "APELLIDO": "Castillo",
+      "ID_MATERIA": 4,
+      "ESTA_ACTIVO": true,
+      "FECHA_INSCRIPCION": "10-08-2022",
+      "PROMEDIO": 6
+    },
+    {
+      "LEGAJO": 2010,
+      "NOMBRE": "Geral",
+      "APELLIDO": "Ochoa",
+      "ID_MATERIA": 3,
+      "ESTA_ACTIVO": false,
+      "FECHA_INSCRIPCION": "15-04-2020",
+      "PROMEDIO": null
+    }
+  ]

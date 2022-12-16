@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biblioteca.Usuario">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAFAAAAAQAAAAAAIAQAACAEAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Profesor">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Biblioteca.Usuario" FixedToPoint="true">
+      <Path>
+        <Point X="5.156" Y="0.5" />
+        <Point X="5.156" Y="0.125" />
+        <Point X="6.75" Y="0.125" />
+        <Point X="6.75" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAQAAACEgAAAgAAAAAAAAAAAAAAAIEAAAAA=</HashCode>
+      <FileName>Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Materia">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAARgAAgAAAAQAQAQAAEAAARgAAAAAAAQCAgAA=</HashCode>
+      <FileName>Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.ListaUsuarios">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ListaUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.ListaMaterias">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAAAAAgAAAAAgAAAIAAAAIAAAAACAAAAAAAAE=</HashCode>
+      <FileName>ListaMaterias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Examen">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAARQAAIAGAAAAAgAAAAAAAQAAAAAAAEAAAABA=</HashCode>
+      <FileName>Examen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Alumno">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEgAAAgAAAAAAAABAAIAAAACAAAAA=</HashCode>
+      <FileName>Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Admin">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEgAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.ListaProfesores">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaProfesores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Calificacion">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAQAAFAEAAAAAAgAAABBAAkAQAAAAQAAAAEAAAkAA=</HashCode>
+      <FileName>Calificacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Asistencia">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Asistencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.ListaCalificaciones">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAAAAAAAACAAIAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaCalificaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

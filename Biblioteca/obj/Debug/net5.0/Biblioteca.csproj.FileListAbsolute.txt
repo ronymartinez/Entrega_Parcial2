@@ -1,0 +1,48 @@
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\TP_1\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial_1\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb

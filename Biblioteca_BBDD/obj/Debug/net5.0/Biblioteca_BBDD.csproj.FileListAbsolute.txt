@@ -1,0 +1,12 @@
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\bin\Debug\net5.0\Biblioteca_BBDD.deps.json
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\bin\Debug\net5.0\Biblioteca_BBDD.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\bin\Debug\net5.0\ref\Biblioteca_BBDD.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\bin\Debug\net5.0\Biblioteca_BBDD.pdb
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.AssemblyInfoInputs.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.AssemblyInfo.cs
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.csproj.CoreCompileInputs.cache
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\ref\Biblioteca_BBDD.dll
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.pdb
+C:\Users\rmarcast\OneDrive - NTT DATA EMEAL\Documents\UTN\Lab 2\Clases\Parcial 2 - Labo\Biblioteca_BBDD\obj\Debug\net5.0\Biblioteca_BBDD.csproj.AssemblyReference.cache

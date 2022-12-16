@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rmarcast\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rmarcast\\.nuget\\packages"
+    ]
+  }
+}
